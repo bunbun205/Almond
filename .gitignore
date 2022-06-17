@@ -1,0 +1,17 @@
+
+# Directories
+.vscode/
+bin/
+bin-int/
+build/
+CMake/
+
+# Files
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.sln
+CMakeLists.txt
+
+# Exclude
+!vendor/bin
